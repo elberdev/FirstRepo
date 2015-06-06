@@ -13,6 +13,7 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSLog(@"Hello, World!");
         
+// I CHANGED SOMETHING. -ELBER
         
         NSArray *twelveDays = @[@"first", @"second", @"third", @"fourth", @"fifth", @"sixth", @"seventh", @"eight", @"ninth", @"tenth", @"eleventh", @"twelfth"];
         NSString *moreGifts = @"and";
