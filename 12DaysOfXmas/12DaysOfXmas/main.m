@@ -18,6 +18,8 @@ int main(int argc, const char * argv[]) {
         NSString *moreGifts = @"and";
         NSArray *gifts = @[@"a Partridge in a Pear Tree", @"Two Turtle Doves", @"Three French Hens", @"Calling Birds", @"Gold Rings", @"Geese-a-Laying", @"Swans a-Swimming", @"Maids a-Milking", @"Ladies Dancing", @"Lords a-Leaping", @"Pipers Piping", @"Drummers Drumming"];
         
+        int i = 1;
+        
         for (int i = 0; i < 12; i++) {
             
             if (i == 0){
